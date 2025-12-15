@@ -1,0 +1,19 @@
+.ContactItem {
+    align-items: center;
+    width: 400px;
+    height: 200px;
+}
+
+.ContactItem:hover {
+    background: whitesmoke;
+}
+
+.ContactItem__delete {
+    background: red;
+    color: white;
+    cursor: pointer;
+}
+
+.ContactItem__delete:hover {
+    background: red;
+}

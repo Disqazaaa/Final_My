@@ -1,0 +1,24 @@
+.Form {
+    width: 200px;
+    height: 150px;
+}
+  
+.Form__input{
+    padding: 10px;
+    width: 100px;
+    height: 20px;
+}
+
+.Form__input:hover {
+    background-color: aquamarine;
+}
+
+.Form__btn {
+    width: 100px;
+    height: 20px;
+    background: greenyellow;
+}
+
+.Form__btn:hover {
+    background: green;
+}
